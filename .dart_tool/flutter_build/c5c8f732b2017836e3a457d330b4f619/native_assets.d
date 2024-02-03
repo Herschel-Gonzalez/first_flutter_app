@@ -1,0 +1,1 @@
+ /Users/herschel/AndroidStudioProjects/first_flutter_app/.dart_tool/flutter_build/c5c8f732b2017836e3a457d330b4f619/native_assets.yaml: 
